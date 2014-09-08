@@ -768,5 +768,194 @@
     "description": "Simple multidimensional vector math",
     "license": "MIT",
     "web": "https://github.com/blamestross/nimrod-vectors"
+  },
+  {
+    "name": "bitarray",
+    "url": "git://github.com/refgenomics/nimrod-bitarray/",
+    "method": "git",
+    "tags": ["Bit arrays", "Bit sets", "Bit vectors", "Data structures"],
+    "description": "mmap-backed bitarray implementation in Nimrod..",
+    "license": "MIT",
+    "web": "https://www.github.com/refgenomics/nimrod-bitarray/"
+  },
+  {
+    "name": "appdirs",
+    "url": "git://github.com/MrJohz/appdirs",
+    "method": "git",
+    "tags": ["utility", "filesystem"],
+    "description": "A utility library to find the directory you need to app in.",
+    "license": "MIT",
+    "web": "https://github.com/MrJohz/appdirs"
+  },
+  {
+      "name": "nim-sndfile",
+      "url": "git://github.com/julienaubert/nim-sndfile",
+      "method": "git",
+      "tags": ["audio", "wav", "wrapper", "libsndfile"],
+      "description": "A wrapper of libsndfile",
+      "license": "MIT",
+      "web": "https://github.com/julienaubert/nim-sndfile"
+  },
+  {
+    "name": "bigints",
+    "url": "git://github.com/def-/bigints",
+    "method": "git",
+    "tags": ["math", "library", "numbers"],
+    "description": "Arbitrary-precision integers",
+    "license": "MIT",
+    "web": "https://github.com/def-/bigints"
+  },
+  {
+    "name": "iterutils",
+    "url": "git://github.com/def-/iterutils",
+    "method": "git",
+    "tags": ["library", "iterators"],
+    "description": "Functional operations for iterators and slices, similar to sequtils",
+    "license": "MIT",
+    "web": "https://github.com/def-/iterutils"
+  },
+  {
+    "name": "hastyscribe",
+    "url": "git://github.com/h3rald/hastyscribe",
+    "method": "git",
+    "tags": ["markdown", "html", "publishing"],
+    "description": "Self-contained markdown compiler generating self-contained HTML documents",
+    "license": "MIT",
+    "web": "https://h3rald.com/hastyscribe"
+  },
+  {
+    "name": "nim-nanomsg",
+    "url": "git://github.com/def-/nim-nanomsg",
+    "method": "git",
+    "tags": ["library", "wrapper", "networking"],
+    "description": "Wrapper for the nanomsg socket library that provides several common communication patterns",
+    "license": "MIT",
+    "web": "https://github.com/def-/nim-nanomsg"
+  },
+  {
+    "name": "directnimrod",
+    "url": "https://bitbucket.org/barcharcraz/directnimrod",
+    "method": "git",
+    "tags": ["library", "wrapper", "graphics", "windows"],
+    "description": "Wrapper for microsoft's DirectX libraries",
+    "license": "MS-PL",
+    "web": "https://bitbucket.org/barcharcraz/directnimrod"
+  },
+  {
+    "name": "imghdr",
+    "url": "git://gitub.com/achesak/nimrod-imghdr",
+    "method": "git",
+    "tags": ["image", "formats", "files"],
+    "description": "Library for detecting the format of an image",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-imghdr"
+  },
+  {
+    "name": "csv2json",
+    "url": "git://github.com/achesak/nimrod-csv2json",
+    "method": "git",
+    "tags": ["csv", "json"],
+    "description": "Convert CSV files to JSON",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-csv2json"
+  },
+  {
+    "name": "vecmath",
+    "url": "git://github.com/barcharcraz/vecmath",
+    "method": "git",
+    "tags": ["library", "math", "vector"],
+    "description": "various vector maths utils for nimrod",
+    "license": "MIT",
+    "web": "https://github.com/barcharcraz/vecmath"
+  },
+  {
+    "name": "lazy_rest",
+    "url": "git://github.com/gradha/lazy_rest",
+    "method": "git",
+    "tags": ["library", "rst", "rest", "text", "html"],
+    "description": "Simple reST HTML generation with some extras.",
+    "license": "MIT",
+    "web": "https://github.com/gradha/lazy_rest"
+  },
+  {
+    "name": "Phosphor",
+    "url": "git://github.com/barcharcraz/Phosphor",
+    "method": "git",
+    "tags": ["library", "opengl", "graphics"],
+    "description": "eaiser use of OpenGL and GLSL shaders",
+    "license": "MIT",
+    "web": "https://github.com/barcharcraz/Phosphor"
+  },
+  {
+    "name": "colorsys",
+    "url": "git://github.com/achesak/nimrod-colorsys",
+    "method": "git",
+    "tags": ["library", "colors", "rgb", "yiq", "hls", "hsv"],
+    "description": "Convert between RGB, YIQ, HLS, and HSV color systems.",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-colorsys"
+  },
+  {
+    "name": "pythonfile",
+    "url": "git://github.com/achesak/nimrod-pythonfile",
+    "method": "git",
+    "tags": ["library", "python", "files", "file"],
+    "description": "Wrapper of the file procedures to provide an interface as similar as possible to that of Python",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-pythonfile"
+  },
+  {
+    "name": "sndhdr",
+    "url": "git://github.com/achesak/nimrod-sndhdr",
+    "method": "git",
+    "tags": ["library", "formats", "files", "sound", "audio"],
+    "description": "Library for detecting the format of a sound file",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-sndhdr"
+  },
+  {
+    "name": "irc",
+    "url": "git://github.com/nimrod-code/irc",
+    "method": "git",
+    "tags": ["library", "irc", "network"],
+    "description": "Implements a simple IRC client.",
+    "license": "MIT",
+    "web": "https://github.com/nimrod-code/irc"
+  },
+  {
+    "name": "random",
+    "url": "git://github.com/BlaXpirit/nimrod-random",
+    "method": "git",
+    "tags": ["library", "algorithms", "random"],
+    "description": "Pseudo-random number generation library inspired by Python",
+    "license": "MIT",
+    "web": "https://github.com/BlaXpirit/nimrod-random"
+  },
+  {
+    "name": "zmq",
+    "url": "git://github.com/nimrod-code/nim-zmq",
+    "method": "git",
+    "tags": ["library", "wrapper", "zeromq", "messaging", "queue"],
+    "description": "ZeroMQ 4 wrapper",
+    "license": "MIT",
+    "web": "https://github.com/nimrod-code/nim-zmq"
+  },
+  {
+    "name": "uuid",
+    "url": "git://github.com/idlewan/nim-uuid",
+    "method": "git",
+    "tags": ["library", "wrapper", "uuid"],
+    "description": "UUID wrapper",
+    "license": "MIT",
+    "web": "https://github.com/idlewan/nim-uuid"
+  },
+  {
+    "name": "robotparser",
+    "url": "git://github.com/achesak/nimrod-robotparser",
+    "method": "git",
+    "tags": ["library", "useragent", "robots", "robot.txt"],
+    "description": "Determine if a useragent can access a URL using robots.txt",
+    "license": "MIT",
+    "web": "https://github.com/achesak/nimrod-robotparser"
   }
 ]
